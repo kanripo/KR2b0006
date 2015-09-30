@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 唐創業起居注
-#+DATE: 2015-09-23 09:42:45
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:23:16.594803
+#+PROPERTY: ID KR2b0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR2b0006_WYG_003-1a>¶
 欽定四庫全書¶
 　唐創業起居注卷下　　　唐温大雅撰¶
@@ -344,4 +346,3 @@
 　¶
 　¶
 　唐創業起居注卷下¶
-
